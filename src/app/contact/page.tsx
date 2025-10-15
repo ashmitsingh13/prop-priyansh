@@ -206,7 +206,7 @@ export default function ContactPage() {
             CONTACT US
           </h1>
           <p className="font-paragraph text-lg text-secondary/80 max-w-3xl mx-auto">
-            Ready to find your dream property in Dholera Smart City? Get in touch with our expert team 
+            Ready to find your dream property in Dholera / Noida Smart City? Get in touch with our expert team 
             for personalized guidance and exceptional service.
           </p>
         </div>
@@ -275,10 +275,10 @@ export default function ContactPage() {
                       </div>
                       <div>
                         <h3 className="font-heading text-xl text-secondary mb-2">OFFICE</h3>
-                        <p className="font-paragraph text-secondary/70 mb-2">Visit our office in Dholera Smart City</p>
+                        <p className="font-paragraph text-secondary/70 mb-2">Visit our office in Dholera / Noida Smart City</p>
                         <p className="font-paragraph text-secondary">
                           PropPriyansh Office<br />
-                          Dholera Smart City<br />
+                          Dholera / Noida Smart City<br />
                           Gujarat, India - 382225
                         </p>
                       </div>
@@ -490,7 +490,7 @@ export default function ContactPage() {
               FREQUENTLY ASKED
             </h2>
             <p className="font-paragraph text-lg text-secondary/80 max-w-3xl mx-auto">
-              Quick answers to common questions about our services and Dholera properties.
+              Quick answers to common questions about our services and Dholera / Noida properties.
             </p>
           </div>
 
@@ -542,7 +542,7 @@ export default function ContactPage() {
             <div className="md:col-span-2">
               <h4 className="font-heading text-2xl text-secondary uppercase mb-4">PROPRIYANSH</h4>
               <p className="font-paragraph text-secondary/70 mb-6 max-w-md">
-                Your trusted partner for premium real estate in Dholera Smart City. 
+                Your trusted partner for premium real estate in Dholera / Noida Smart City. 
                 Expert guidance, transparent deals, and exceptional service.
               </p>
               <div className="flex space-x-4">
@@ -571,7 +571,7 @@ export default function ContactPage() {
                 <p className="font-paragraph text-secondary/70 flex items-start">
                   <MapPin className="w-4 h-4 mr-2 mt-1 flex-shrink-0" />
                   PropPriyansh Office<br />
-                  Dholera Smart City<br />
+                  Dholera / Noida Smart City<br />
                   Gujarat, India - 382225
                 </p>
                 <p className="font-paragraph text-secondary/70 flex items-center">
@@ -583,7 +583,7 @@ export default function ContactPage() {
           </div>
           <div className="border-t border-secondary/10 mt-12 pt-8 text-center">
             <p className="font-paragraph text-secondary/60">
-              © 2025 PropPriyansh. All rights reserved. | Trusted Property Dealer & Builder in Dholera, Gujarat
+              © 2025 PropPriyansh. All rights reserved. | Trusted Property Dealer & Builder in Dholera, Gujarat / Noida, Uttar Pradesh
             </p>
           </div>
         </div>

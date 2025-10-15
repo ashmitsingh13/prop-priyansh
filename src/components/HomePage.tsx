@@ -192,7 +192,7 @@ export default function HomePage() {
             </div>
             
             <p className="font-paragraph text-lg lg:text-xl text-secondary/90 mb-8 leading-relaxed drop-shadow-sm">
-              Discover exceptional residential and commercial properties in Dholera Smart City. 
+              Discover exceptional residential and commercial properties in Dholera / Noida Smart City. 
               Expert guidance rooted in Gujarat&apos;s rich heritage, transparent deals, and your dream property awaits.
             </p>
             
@@ -298,7 +298,7 @@ export default function HomePage() {
             </h3>
             <div className="font-paragraph text-highlightyellow mb-4">પસંદગીની મિલકતો</div>
             <p className="font-paragraph text-lg text-secondary/80 max-w-3xl mx-auto">
-              Explore our handpicked selection of premium properties in Dholera Smart City, 
+              Explore our handpicked selection of premium properties in Dholera / Noida Smart City, 
               each offering exceptional value and modern amenities rooted in Gujarat&apos;s progressive vision.
             </p>
           </div>
@@ -428,7 +428,7 @@ export default function HomePage() {
                   <div>
                     <h4 className="font-heading text-xl text-secondary mb-2">Expert Guidance</h4>
                     <p className="font-paragraph text-secondary/70">
-                      15+ years of experience in Dholera real estate market with deep local knowledge.
+                      15+ years of experience in Dholera / Noida real estate market with deep local knowledge.
                     </p>
                   </div>
                 </div>
@@ -492,7 +492,7 @@ export default function HomePage() {
           </h3>
           <p className="font-paragraph text-lg text-secondary-foreground/80 max-w-3xl mx-auto mb-12">
             Let our experts guide you through the process of buying, selling, or investing in 
-            Dholera Smart City. Contact us today for a free consultation.
+            Dholera / Noida Smart City. Contact us today for a free consultation.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a href="tel:+919389903679">
@@ -518,7 +518,7 @@ export default function HomePage() {
             <div className="md:col-span-2">
               <h4 className="font-heading text-2xl text-secondary uppercase mb-4">PROPRIYANSH</h4>
               <p className="font-paragraph text-secondary/70 mb-6 max-w-md">
-                Your trusted partner for premium real estate in Dholera Smart City. 
+                Your trusted partner for premium real estate in Dholera / Noida Smart City. 
                 Expert guidance, transparent deals, and exceptional service.
               </p>
               <div className="flex space-x-4">
@@ -548,7 +548,7 @@ export default function HomePage() {
             <div>
               <h5 className="font-heading text-lg text-secondary mb-4">LOCATION</h5>
               <p className="font-paragraph text-secondary/70">
-                Dholera Smart City<br />
+                Dholera / Noida Smart City<br />
                 Gujarat, India<br />
                 Pin: 382225
               </p>
@@ -556,7 +556,7 @@ export default function HomePage() {
           </div>
           <div className="border-t border-secondary/10 mt-12 pt-8 text-center">
             <p className="font-paragraph text-secondary/60">
-              © 2025 PropPriyansh. All rights reserved. | Trusted Property Dealer & Builder in Dholera, Gujarat
+              © 2025 PropPriyansh. All rights reserved. | Trusted Property Dealer & Builder in Dholera / Noida, Gujarat
             </p>
           </div>
         </div>

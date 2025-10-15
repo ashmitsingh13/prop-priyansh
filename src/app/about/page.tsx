@@ -124,7 +124,7 @@ export default function AboutPage() {
             ABOUT US
           </h1>
           <p className="font-paragraph text-lg text-secondary/80 max-w-4xl mx-auto">
-            Your trusted partner in Dholera Smart City real estate. With over 15 years of experience, 
+            Your trusted partner in Dholera / Noida Smart City real estate. With over 15 years of experience, 
             we&apos;ve built our reputation on transparency, expertise, and exceptional client service.
           </p>
         </div>
@@ -141,11 +141,11 @@ export default function AboutPage() {
               <div className="space-y-6">
                 <p className="font-paragraph text-lg text-secondary/80 leading-relaxed">
                   Founded in 2009, PropPriyansh began as a vision to transform the real estate 
-                  landscape in Dholera Smart City. What started as a small family business has 
+                  landscape in Dholera / Noida Smart City. What started as a small family business has 
                   grown into one of the most trusted names in Gujarat&apos;s real estate sector.
                 </p>
                 <p className="font-paragraph text-lg text-secondary/80 leading-relaxed">
-                  We recognized early on that Dholera would become India&apos;s first planned smart city, 
+                  We recognized early on that Dholera / Noida would become India&apos;s first planned smart city, 
                   and we positioned ourselves to be at the forefront of this transformation. Our deep 
                   understanding of the local market, combined with our commitment to ethical practices, 
                   has helped over 1000 families find their dream properties.
@@ -286,7 +286,7 @@ export default function AboutPage() {
                 <h3 className="font-heading text-2xl text-secondary mb-2">Priyansh Patel</h3>
                 <p className="font-paragraph text-primary mb-4">Founder & CEO</p>
                 <p className="font-paragraph text-secondary/70 text-sm">
-                  15+ years of experience in Dholera real estate with deep market insights and 
+                  15+ years of experience in Dholera / Noida real estate with deep market insights and 
                   strategic vision for the company&apos;s growth.
                 </p>
               </CardContent>
@@ -364,7 +364,7 @@ export default function AboutPage() {
               <CardContent className="p-8">
                 <Star className="w-12 h-12 text-primary mx-auto mb-4" />
                 <h3 className="font-heading text-xl text-secondary mb-2">Customer Choice Award</h3>
-                <p className="font-paragraph text-secondary/70 text-sm">Dholera Business Excellence 2022</p>
+                <p className="font-paragraph text-secondary/70 text-sm">Dholera / Noida Business Excellence 2022</p>
               </CardContent>
             </Card>
             <Card className="border-secondary/10 text-center">
@@ -415,7 +415,7 @@ export default function AboutPage() {
               </div>
               <h3 className="font-heading text-xl text-secondary-foreground mb-4">Market Expertise</h3>
               <p className="font-paragraph text-secondary-foreground/70">
-                Deep understanding of Dholera market trends and investment opportunities.
+                Deep understanding of Dholera / Noida market trends and investment opportunities.
               </p>
             </div>
           </div>
@@ -429,7 +429,7 @@ export default function AboutPage() {
             READY TO WORK WITH US?
           </h2>
           <p className="font-paragraph text-lg text-secondary/80 max-w-3xl mx-auto mb-12">
-            Experience the difference of working with Dholera&apos;s most trusted real estate experts. 
+            Experience the difference of working with Dholera / Noida&apos;s most trusted real estate experts. 
             Contact us today for a free consultation.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
@@ -456,7 +456,7 @@ export default function AboutPage() {
             <div className="md:col-span-2">
               <h4 className="font-heading text-2xl text-secondary uppercase mb-4">PROPRIYANSH</h4>
               <p className="font-paragraph text-secondary/70 mb-6 max-w-md">
-                Your trusted partner for premium real estate in Dholera Smart City. 
+                Your trusted partner for premium real estate in Dholera / Noida Smart City. 
                 Expert guidance, transparent deals, and exceptional service.
               </p>
               <div className="flex space-x-4">
@@ -486,7 +486,7 @@ export default function AboutPage() {
             <div>
               <h5 className="font-heading text-lg text-secondary mb-4">LOCATION</h5>
               <p className="font-paragraph text-secondary/70">
-                Dholera Smart City<br />
+                Dholera / Noida Smart City<br />
                 Gujarat, India<br />
                 Pin: 382225
               </p>
@@ -494,7 +494,7 @@ export default function AboutPage() {
           </div>
           <div className="border-t border-secondary/10 mt-12 pt-8 text-center">
             <p className="font-paragraph text-secondary/60">
-              © 2025 PropPriyansh. All rights reserved. | Trusted Property Dealer & Builder in Dholera, Gujarat
+              © 2025 PropPriyansh. All rights reserved. | Trusted Property Dealer & Builder in Dholera / Noida, Gujarat
             </p>
           </div>
         </div>

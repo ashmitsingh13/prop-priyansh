@@ -13,9 +13,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "PropPriyansh - Premium Real Estate in Dholera",
+  title: "PropPriyansh - Premium Real Estate in Dholera / Noida",
   description:
-    "Comprehensive real estate solutions for buying, selling, and investing in Dholera Smart City.",
+    "Comprehensive real estate solutions for buying, selling, and investing in Dholera / Noida Smart City.",
 };
 
 export default function RootLayout({
