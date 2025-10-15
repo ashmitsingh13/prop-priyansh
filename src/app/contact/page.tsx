@@ -66,11 +66,8 @@ export default function ContactPage() {
     
     try {
       const formData = new FormData(e.target as HTMLFormElement);
-      
-      // Add Web3Forms access key
-      // Replace "YOUR_ACCESS_KEY_HERE" with your actual Web3Forms access key
-      // You can get it from: https://web3forms.com/
-      formData.append("access_key", "YOUR_ACCESS_KEY_HERE");
+
+      formData.append("access_key", "5a6edc61-0d4f-44d9-9d33-44b6a2c0b4fa");
       
       const object = Object.fromEntries(formData);
       const json = JSON.stringify(object);
